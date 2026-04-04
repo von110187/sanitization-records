@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SanitizationRecords/SanitizationRecords.vcxproj" Id="0f4575e2-096f-4cc5-8ee6-02e60b44f8c6" />
+</Solution>

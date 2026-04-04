@@ -1,0 +1,28 @@
+# ─── Compiled output ───────────────────────────────────────────────
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.pch
+*.ipch
+*.idb
+
+# ─── Build directories ─────────────────────────────────────────────
+x64/
+x86/
+Debug/
+Release/
+
+# ─── Visual Studio ─────────────────────────────────────────────────
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+*.tlog/
+*.lastbuildstate
+*.log
+*.recipe
